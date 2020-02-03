@@ -1,2 +1,2 @@
-# artminda-old
-Portfolio web ( old )
+# artminda.github.io
+Personal image website

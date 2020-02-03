@@ -1,0 +1,36 @@
+.introduction img.logo{
+    position: relative;
+}
+
+.intro-content{
+    width: 100%;
+}
+
+.image_logo_intro .intro-content .social-media{
+    margin-top: 0;
+}
+
+.content-container{
+    background: #000000;
+}
+
+.about-us-desc p:last-child {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 1;
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+    font-size: 17px;
+}
+
+.facts-overlay {
+      background-color: rgba(35, 46, 52, 0.31);    
+}
+
+.about-me-pic {
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+}    
